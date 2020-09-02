@@ -1,2 +1,2 @@
 # course-specialization
-Contains notebooks on most highly sought after skills specialization in tech (examples and solved assignments).
+Contains notebooks on most highly sought after skill specializations in tech (examples and solved assignments).
