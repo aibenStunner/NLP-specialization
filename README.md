@@ -1,2 +1,2 @@
-# NLP-specialization
-Contains notebooks on cutting-edge NLP techniques (examples and solved assignments).
+# course-specialization
+Contains notebooks on most highly sought after skills specialization in tech (examples and solved assignments).
